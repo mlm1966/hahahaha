@@ -2,3 +2,5 @@ theme: minima
 title:
 author:
 description:
+base: main
+compare:my-pages
